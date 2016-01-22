@@ -6,4 +6,5 @@ def largestPrime(n):
         i = i + 1
     return n
 
-print(largestPrime(600851475143))
+num = 600851475143
+print(largestPrime(num))
